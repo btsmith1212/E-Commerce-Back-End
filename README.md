@@ -6,11 +6,11 @@ This is a modifiable backend for an e-commerce site. This project utilizes a wor
 
 ## Installation
 
-Run npm i to install modules, npm seed to seed the database, and then run npm start to run the server. 
+Run npm i to install modules, npm run seed to seed the database, and then run npm start to run the server. 
 
 ## Usage
 
-Use Insomnia or another virtual tester to test routes. Seeds can be adjusted through API endpoints or by manipulating data in the seeds folder.
+Use Insomnia or another API virtual client to test routes. Seeds can be adjusted through API endpoints or by manipulating data in the seeds folder.
 
 ## Credits
 
@@ -21,7 +21,7 @@ N/A
 Please refer to the LICENSE in the repo.
 
 ## Code Sources
-
+https://github.com/btsmith1212/E-Commerce-Back-End.git
 
 ## Video Demo
 https://drive.google.com/file/d/13y8pODWCbaoNNWbOl8BVK0Q5jix-OE2Q/view
